@@ -53,8 +53,6 @@
 - slides: 
 - github caffe: 
 
-</br>
-</br>
 
 
 ### [CVPR-2018] Occluded Pedestrian Detection Through Guided Attention in CNNs
@@ -66,8 +64,7 @@
 - slides: 
 - github caffe: 
 
-</br>
-</br>
+
 
 ### [CVPR-2018] Repulsion Loss: Detecting Pedestrians in a Crowd
 ![Alt text| left | 300x0](./Images/1528195001788.png)
@@ -77,8 +74,7 @@
 - slides: 
 - github caffe: 
 
-</br>
-</br>
+
 
 ### [TPAMI-2017] Jointly Learning Deep Features, Deformable Parts, Occlusion and Classification for Pedestrian Detection
 ![Alt text| left | 300x0](./Images/1537261066815.png)
@@ -88,12 +84,7 @@
 - slides: 
 - github caffe: 
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
 
 ### [BMVC-2017] PCN: Part and Context Information for Pedestrian Detection with CNNs
 ![Alt text| left | 300x0](./Images/1533980559400.png)
@@ -103,9 +94,6 @@
 - slides: 
 - github caffe: 
 
-</br>
-</br>
-</br>
 
 
 ### [CVPR-2017] CityPersons: A Diverse Dataset for Pedestrian Detection
@@ -118,9 +106,6 @@
 - slides: 
 - github caffe: 
 
-</br>
-</br>
-</br>
 
 ---
 
@@ -176,19 +161,6 @@
 - slides: 
 - github caffe: 
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 
 ### [CVPR-2016] How Far areWe from Solving Pedestrian Detection?
 
@@ -214,11 +186,7 @@
 - project website: 
 - slides: 
 - github caffe: 
-</br>
-</br>
-</br>
-</br>
-</br>
+
 
 ### [CVPR-2012] A Discriminative Deep Model for Pedestrian Detection with Occlusion Handling
 ![Alt text| left | 300x0](./Images/1537260310332.png)
@@ -229,12 +197,7 @@
 - slides: 
 - github caffe: 
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
 
 ### [CVPR-2010] Multi-Cue Pedestrian Classification With Partial Occlusion Handling
 ![Alt text| left | 300x0](./Images/1537260117170.png)
@@ -243,9 +206,7 @@
 - project website: 
 - slides: 
 - github caffe: 
-</br>
-</br>
-</br>
+
 
 ## 行人检测数据集
 
