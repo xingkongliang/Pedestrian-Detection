@@ -13,19 +13,48 @@
 - [欧阳万里 scholar](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&%20hl=en)
 - [欧阳万里 homepage](http://www.ee.cuhk.edu.hk/~wlouyang/)
 
+## 开放的代码
+
+
+- [**liuwei16/CSP**](https://github.com/liuwei16/CSP)
+
+[CVPR-2019] High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection [[paper](https://arxiv.org/abs/1904.02948)]
+
+- [**liuwei16/ALFNet**](https://github.com/liuwei16/ALFNet)
+
+[ECCV-2018] Learning Efficient Single-stage Pedestrian Detectors by Asymptotic Localization Fitting
+
+- [**rainofmine/Bi-box_Regression 非官方实现**](https://github.com/rainofmine/Bi-box_Regression)
+
+[ECCV-2018] Bi-box Regression for Pedestrian Detection and Occlusion Estimation
+
+- [**rainofmine/Repulsion_Loss 非官方实现**](https://github.com/rainofmine/Repulsion_Loss)
+
+[CVPR-2018] Repulsion Loss: Detecting Pedestrians in a Crowd
+
+- [**garrickbrazil/SDS-RCNN**](https://github.com/garrickbrazil/SDS-RCNN)
+
+[ICCV-2017] Illuminating Pedestrians via Simultaneous Detection & Segmentation
+
+- [**zhangliliang/RPN_BF**](https://github.com/zhangliliang/RPN_BF)
+
+[ECCV-2016] Is Faster R-CNN Doing Well for Pedestrian Detection?
+
 ## Paper List
-- [CVPR-2019] High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection
+
+- [CVPR-2019 oral] Adaptive NMS: Refining Pedestrian Detection in a Crowd [[paper](https://arxiv.org/abs/1904.02948)]
+- [CVPR-2019] High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection [[paper](https://arxiv.org/abs/1904.02948)] [[**code**](https://github.com/liuwei16/CSP)]
 - [CVPR-2019] SSA-CNN: Semantic Self-Attention CNN for Pedestrian Detection
 - [CVPR-2019] Pedestrian Detection in Thermal Images using Saliency Maps
 - [TIP-2018] Too Far to See? Not Really:- Pedestrian Detection with Scale-Aware Localization Policy
-- [ECCV-2018] Bi-box Regression for Pedestrian Detection and Occlusion Estimation
-- [ECCV-2018] Learning Efficient Single-stage Pedestrian Detectors by Asymptotic Localization Fitting
+- [ECCV-2018] Bi-box Regression for Pedestrian Detection and Occlusion Estimation [[**code**](https://github.com/rainofmine/Bi-box_Regression)]
+- [ECCV-2018] Learning Efficient Single-stage Pedestrian Detectors by Asymptotic Localization Fitting [[**code**](https://github.com/liuwei16/ALFNet)]
 - [ECCV-2018] Graininess-Aware Deep Feature Learning for Pedestrian Detection
 - [ECCV-2018] Occlusion-aware R-CNN: Detecting Pedestrians in a Crowd
 - [ECCV-2018] Small-scale Pedestrian Detection Based on Somatic Topology Localization and Temporal Feature Aggregation
 - [CVPR-2018] Improving Occlusion and Hard Negative Handling for Single-Stage Pedestrian Detectors
 - [CVPR-2018] Occluded Pedestrian Detection Through Guided Attention in CNNs
-- [CVPR-2018] Repulsion Loss: Detecting Pedestrians in a Crowd
+- [CVPR-2018] Repulsion Loss: Detecting Pedestrians in a Crowd [[**code**](https://github.com/rainofmine/Repulsion_Loss)]
 - [TCSVT-2018] Pushing the Limits of Deep CNNs for Pedestrian Detection
 - [Trans Multimedia-2018] Scale-aware Fast R-CNN for Pedestrian Detection
 - [TPAMI-2017] Jointly Learning Deep Features, Deformable Parts, Occlusion and Classification for Pedestrian Detection
@@ -34,14 +63,14 @@
 - [CVPR-2017] Learning Cross-Modal Deep Representations for Robust Pedestrian Detection
 - [CVPR-2017] What Can Help Pedestrian Detection?
 - [ICCV-2017] Multi-label Learning of Part Detectors for Heavily Occluded Pedestrian Detection
-- [ICCV-2017] Illuminating Pedestrians via Simultaneous Detection & Segmentation
+- [ICCV-2017] Illuminating Pedestrians via Simultaneous Detection & Segmentation [[**code**](https://github.com/garrickbrazil/SDS-RCNN)]
 - [TPAMI-2017] Towards Reaching Human Performance in Pedestrian Detection
 - [Transactions on Multimedia-2017] Scale-Aware Fast R-CNN for Pedestrian Detection
 - [CVPR-2016] Semantic Channels for Fast Pedestrian Detection
 - [CVPR-2016] How Far are We from Solving Pedestrian Detection?
 - ![CVPR-2016] Pedestrian Detection Inspired by Appearance Constancy and Shape Symmetry
 - ![CVPR-2016] Semantic Channels for Fast Pedestrian Detection
-- ![ECCV-2016] Is Faster R-CNN Doing Well for Pedestrian Detection?
+- ![ECCV-2016] Is Faster R-CNN Doing Well for Pedestrian Detection? [[**code**](https://github.com/zhangliliang/RPN_BF)]
 - [CVPR-2015] Taking a Deeper Look at Pedestrians
 - ![ICCV-2015] Learning Complexity-Aware Cascades for Deep Pedestrian Detection
 - [ICCV-2015] Deep Learning Strong Parts for Pedestrian Detection
