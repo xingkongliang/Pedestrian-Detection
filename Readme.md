@@ -478,9 +478,15 @@ CityPersons annotations
 
 ## 性能比较
 
+数据来自 [CityPersons](https://bitbucket.org/shanshanzhang/citypersons/src/default/) 官网。
 
-|Method	|MR (Reasonable)	|MR (Reasonable_small)	|MR (Reasonable_occ=heavy)	|MR (All)|
-|:--:|:--:|:--:|:--:|:--:|
-|OR-CNN	            |11.32%	|14.19%	|51.43%	|40.19%|
-|Repultion Loss	    |11.48%	|15.67%	|52.59%	|39.17%|
-|Adapted FasterRCNN	|12.97%	|37.24%	|50.47%	|43.86%|
+|       Method       | MR (Reasonable) | MR (Reasonable_small) | MR (Reasonable_occ=heavy) | MR (All) |
+|:------------------:|:---------------:|:---------------------:|:-------------------------:|:--------:|
+|     YT-PedDet      |      8.41%      |        10.60%         |          37.88%           |  37.22%  |
+|       STNet        |      9.78%      |        10.95%         |          36.16%           |  31.36%  |
+|       DVRNet       |     10.99%      |        15.68%         |          43.77%           |  41.48%  |
+|      HBA-RCNN      |     11.06%      |        14.77%         |          43.61%           |  39.54%  |
+|       OR-CNN       |     11.32%      |        14.19%         |          51.43%           |  40.19%  |
+|   Repultion Loss   |     11.48%      |        15.67%         |          52.59%           |  39.17%  |
+| Adapted FasterRCNN |     12.97%      |        37.24%         |          50.47%           |  43.86%  |
+|       MS-CNN       |     13.32%      |        15.86%         |          51.88%           |  39.94%  |
