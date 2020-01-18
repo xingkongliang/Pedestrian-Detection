@@ -15,6 +15,7 @@
 
 ## 开放的代码
 
+- [**Leotju/MGAN**](https://github.com/Leotju/MGAN) [ICCV-2019] Mask-Guided Attention Network for Occluded Pedestrian Detection [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Pang_Mask-Guided_Attention_Network_for_Occluded_Pedestrian_Detection_ICCV_2019_paper.pdf)]
 
 - [**lw396285v/CSP-pedestrian-detection-in-pytorch 非官方实现**](https://github.com/lw396285v/CSP-pedestrian-detection-in-pytorch)
 [CVPR-2019] High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection [[paper](https://arxiv.org/abs/1904.02948)]
