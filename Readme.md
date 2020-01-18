@@ -39,10 +39,14 @@
 
 ## Paper List
 
+- [ICCV-2019] Semi-Supervised Pedestrian Instance Synthesis and Detection With Mutual Reinforcement [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wu_Semi-Supervised_Pedestrian_Instance_Synthesis_and_Detection_With_Mutual_Reinforcement_ICCV_2019_paper.pdf)]
+- [ICCV-2019] Weakly Aligned Cross-Modal Learning for Multispectral Pedestrian Detection [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Weakly_Aligned_Cross-Modal_Learning_for_Multispectral_Pedestrian_Detection_ICCV_2019_paper.pdf)]
+- [ICCV-2019] Discriminative Feature Transformation for Occluded Pedestrian Detection [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Discriminative_Feature_Transformation_for_Occluded_Pedestrian_Detection_ICCV_2019_paper.pdf)]
+- [ICCV-2019] Mask-Guided Attention Network for Occluded Pedestrian Detection [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Pang_Mask-Guided_Attention_Network_for_Occluded_Pedestrian_Detection_ICCV_2019_paper.pdf), [code](https://github.com/Leotju/MGAN)]
 - [TPAMI-2019] EuroCity Persons: A Novel Benchmark for Person Detection in Traffic Scenes [[paper](http://intelligent-vehicles.org/wp-content/uploads/2019/04/braun2019tpami_eurocity_persons.pdf)]
 - [CVPR-2019 oral] Adaptive NMS: Refining Pedestrian Detection in a Crowd [[paper](https://arxiv.org/abs/1904.02948)]
 - [CVPR-2019] High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection [[paper](https://arxiv.org/abs/1904.02948)] [[**code**](https://github.com/liuwei16/CSP)]
-- [CVPR-2019] SSA-CNN: Semantic Self-Attention CNN for Pedestrian Detection
+- [arxiv] SSA-CNN: Semantic Self-Attention CNN for Pedestrian Detection
 - [CVPR-2019] Pedestrian Detection in Thermal Images using Saliency Maps
 - [TIP-2018] Too Far to See? Not Really:- Pedestrian Detection with Scale-Aware Localization Policy
 - [ECCV-2018] Bi-box Regression for Pedestrian Detection and Occlusion Estimation [[**code**](https://github.com/rainofmine/Bi-box_Regression)]
