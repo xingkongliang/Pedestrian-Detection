@@ -45,7 +45,7 @@
 - [ICCV-2019] Discriminative Feature Transformation for Occluded Pedestrian Detection [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Discriminative_Feature_Transformation_for_Occluded_Pedestrian_Detection_ICCV_2019_paper.pdf)]
 - [ICCV-2019] Mask-Guided Attention Network for Occluded Pedestrian Detection [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Pang_Mask-Guided_Attention_Network_for_Occluded_Pedestrian_Detection_ICCV_2019_paper.pdf)] [[**code**](https://github.com/Leotju/MGAN)]
 - [TPAMI-2019] EuroCity Persons: A Novel Benchmark for Person Detection in Traffic Scenes [[paper](http://intelligent-vehicles.org/wp-content/uploads/2019/04/braun2019tpami_eurocity_persons.pdf)]
-- [CVPR-2019 oral] Adaptive NMS: Refining Pedestrian Detection in a Crowd [[paper](https://arxiv.org/abs/1904.02948)]
+- [CVPR-2019 oral] Adaptive NMS: Refining Pedestrian Detection in a Crowd [[paper](https://arxiv.org/abs/1904.03629v1)]
 - [CVPR-2019] High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection [[paper](https://arxiv.org/abs/1904.02948)] [[**code**](https://github.com/liuwei16/CSP)]
 - [arxiv] SSA-CNN: Semantic Self-Attention CNN for Pedestrian Detection
 - [CVPR-2019] Pedestrian Detection in Thermal Images using Saliency Maps
